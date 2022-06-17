@@ -21,7 +21,7 @@
 ## 최적화 알고리즘(모의 담금질)
 
 ### 1. 소스코드
-### (우선 $Y=X^2$ 으로 진행하여 보았다.)
+### (우선 Y=X^2 으로 진행하여 보았다.)
 - 구현은 google colab을 이용하여 파이썬의 numpy를 사용하였다.
 - [해당 링크](https://colab.research.google.com/drive/1GNGyDW64OTSMenQ6VGeKqi8qX2wtDqP3?usp=sharing)에 코드를 공유해 두었다.
 
@@ -41,7 +41,7 @@
 
 ### 2. 실행 후 출력값
 ![출력](컴알기말/출력1.png)
-- 다음 해 라는 것이 출력되면 확률p가 랜덤확률보다 높아서 이웃해가 다음 현재 해가 되는 것을 의미한다.
+- 다음 해 라는 것이 출력되면 확률p가 랜덤확률보다 높아서 f(x)가 최적해와 멀어져도 이웃해가 다음 현재 해가 되는 것을 의미한다.
 
 - 처음에는 T의 값이 크다보니 이웃해가 다음 현재 해가 되는 확률이 높다는 것을 알 수 있다.
  
@@ -76,6 +76,6 @@
 - 앞으로 내 진로가 어느 방향이 될 지는 모르겠지만, 이번 경험을 통하여 식견이 넓어져서 좀 더 윤택한 삶에 한발짝 다가갈 수 있었으면 좋겠다.
 
 # 참고
-http://taewan.kim/post/numpy_cheat_sheet/(numpy 기초)
+http://taewan.kim/post/numpy_cheat_sheet/ (numpy 기초)
 https://nittaku.tistory.com/443(python random모듈 정리)
 https://loadtoexcelmaster.tistory.com/entry/%EC%97%91%EC%85%80%EC%97%90%EC%84%9C-%EC%84%A0%ED%98%95%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9DSimple-Linear-Regression-%ED%95%98%EA%B8%B0 (엑셀 회귀 분석)
