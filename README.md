@@ -19,9 +19,11 @@
 - 최적화 알고리즘(모의 담금질 기법)을 이용하여 추정해보려고 한다.
 ---
 ## 최적화 알고리즘(모의 담금질)
+
 ### 1. 소스코드
 ### (우선 $Y=X^2$ 으로 진행하여 보았다.)
 - 구현은 google colab을 이용하여 파이썬의 numpy를 사용하였다.
+- [해당 링크](https://colab.research.google.com/drive/1GNGyDW64OTSMenQ6VGeKqi8qX2wtDqP3?usp=sharing)에 코드를 공유해 두었다.
 
 ![numpy1](컴알기말/numpy1.png)
 - google colab을 사용하면 별도의 조치 없이 자동으로 numpy를 이용 할 수 있다는 좋은 사실을 알게되었다.
