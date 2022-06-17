@@ -78,6 +78,7 @@
 - 앞으로 내 진로가 어느 방향이 될 지는 모르겠지만, 이번 경험을 통하여 식견이 넓어져서 좀 더 윤택한 삶에 한발짝 다가갈 수 있었으면 좋겠다.
 
 # 참고
+https://data.seoul.go.kr/dataList/OA-20914/S/1/datasetView.do(서울시 코로나19 백신 예방접종 현황)
 http://taewan.kim/post/numpy_cheat_sheet/ (numpy 기초)
 https://nittaku.tistory.com/443(python random모듈 정리)
 https://loadtoexcelmaster.tistory.com/entry/%EC%97%91%EC%85%80%EC%97%90%EC%84%9C-%EC%84%A0%ED%98%95%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9DSimple-Linear-Regression-%ED%95%98%EA%B8%B0 (엑셀 회귀 분석)
